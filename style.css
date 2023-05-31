@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair:ital,wght@1,300&display=swap');
+
+/* CSS code */
+body {
+    background: #FEEFE5;
+    padding: 20px;
+    color: black;
+    text-align: center
+    font-family: 'Playfair' serif;
+   
+   
+   a {
+     color: black;
+   }
+
+
+   
+.profile-img {
+      width: 75%;
+      border-radius: 10%;
+    }
+    
+   .btn {
+     display: block;
+     color: black; 
+     padding: 20px;
+     background: white;
+     margin: 16px;
+     box-shadow: 10px 10px;
+     
+     
+   }
