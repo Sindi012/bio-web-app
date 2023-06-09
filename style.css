@@ -5,19 +5,14 @@ body {
     background: #FEEFE5;
     padding: 20px;
     color: black;
-    text-align: center
-    font-family: 'Playfair' serif;
-   
-   
-   a {
-     color: black;
-   }
+    text-align: center;
+    font-family: 'Playfair', serif;
+  
 
 
    
-.profile-img {
-      width: 75%;
-      border-radius: 10%;
+    width: 85%;
+    border-radius: 30%;
     }
     
    .btn {
@@ -27,6 +22,4 @@ body {
      background: white;
      margin: 16px;
      box-shadow: 10px 10px;
-     
-     
    }
